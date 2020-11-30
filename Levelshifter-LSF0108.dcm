@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LSF0108
+D Octal bi-directional multi voltage level translator for open-drain and push-pull applications. LSF0108
+K level, 8bit, octal
+F https://assets.nexperia.com/documents/data-sheet/LSF0108.pdf
+$ENDCMP
+#
+#End Doc Library
